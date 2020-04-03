@@ -51,4 +51,7 @@ Once you have cloned/downloaded the code, you can either you use [ant](http://an
 
 Once compiled, the jar will be in the dist/ directory, to run, `cd` to the `dist` directory, and then run `$ java -jar open2jam.jar`.
 
+* Java 1.7
+* Netbean 11.3
+
 
